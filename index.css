@@ -1,0 +1,112 @@
+.header-div {
+    background-color: #1f2937;
+    color:white;
+    display: flex;
+    justify-content: space-around;
+}
+.header-div a {
+    font-family: 'Courier New', Courier, monospace;
+    padding-top: 5px;
+    color:#E5E7EB;
+    font-size:18px;
+}
+
+#logo {
+    padding-top: 5px;
+    height: 100px;
+    width:100px;
+    border-radius: 5%;
+}
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+    font-weight:900;
+    font-size:48px;
+}
+.hero-div p {
+    font-family: 'Courier New', Courier, monospace;
+    padding: 10px;
+    font-size:18px;
+}
+.hero-div button {
+    background-color:#3882F6;
+    color:#FFFFFF;
+    margin:20px;
+    border-radius: 5px;
+    padding: 10px 20px;
+    
+}
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+.box-div{
+    display:flex;
+    flex-direction: column;
+    text-align: center;
+    margin:10px;
+    
+}
+.box-div img {
+    border-radius: 5%;
+}
+.section-first {
+    background-color: #1f2937;
+    color:#F9FAF9;
+    display: flex;
+    justify-content: space-around;
+}
+.section-first img {
+    padding-right: 10px;;
+    border-radius: 5%;
+}
+.section-second {
+    font-family: 'Courier New', Courier, monospace;
+    font-size:18px;
+    display: flex;
+    justify-content: space-around;
+}
+.text-div-one {
+    background-color: #E5E7EB;
+   font-size: 36px;
+   font-style: italic;
+    text-align: center;
+    padding: 10px 20px;
+    margin-bottom: 10px;
+}
+#quote {
+    font-weight: bold;
+}
+.text-div-two {
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 5px;
+    background-color: #3882F6;
+    color:white;
+    display: flex;
+    justify-content: space-around; 
+    width:80%;
+    margin:0 auto;
+}
+span {
+    font-size: 18px;
+}
+.text-div-two button {
+    border-radius: 5px;
+    margin:20px;
+    padding: 10px;
+    background-color: #3882F6;
+    color:white;
+    border: 2px solid white;
+}
+.footer-div {
+
+    height: 50px;
+    border-radius: 5px;
+    text-align: center;
+    color:white;
+    background-color: black;
+}
+.footer-div p {
+    font-family: 'Courier New', Courier, monospace;
+    padding: 15px;
+}
